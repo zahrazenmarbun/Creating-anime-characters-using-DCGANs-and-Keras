@@ -3,9 +3,11 @@
 <h3 align="center"> Creating anime characters using DCGANs and Keras</h3>
 
 <h4 align="center">Perangkat Lunak :  
+
+ 
  *1.Python*
 
- *2.Jupyter*
+ *2.Google Colab*
  </h4>
 
 
