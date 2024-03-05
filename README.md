@@ -6,7 +6,6 @@
 
  
  *1.Python*
-
  *2.Google Colab*
  </h4>
 
